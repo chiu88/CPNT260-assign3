@@ -1,0 +1,57 @@
+table{
+    margin-top: 80px;
+    margin-left: 120px;
+    width: 60%;
+    border: 5px #fff;
+}
+caption {
+    font-size: 28px;
+    color: #b22222;
+    padding-bottom: 0;
+    font-weight: normal;
+}
+
+.head {
+    background-color: #b22222;
+    color: #fff;
+
+}
+
+tr {
+    height: 60px;
+}
+
+th {
+    color: #fff;
+}
+
+.time {
+    padding-left: 20px;
+    background-color: #ddd;
+    border-bottom: 1px solid grey;
+}
+
+.time-head {
+    padding-left: 20px;
+}
+
+.temp-head, .humidity-head {
+    text-align: right;
+}
+
+.temp-head, .temp {
+    padding-right: 20px;
+}
+
+td {
+    border-bottom: 1px solid grey;
+}
+
+.temp, .humidity {
+    font-weight: bold;
+    text-align: right;
+}
+
+.humidity-head, .humidity {
+    padding-right: 20px;
+}
